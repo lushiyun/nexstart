@@ -1,5 +1,5 @@
 import { Toaster } from "@/components/ui/toaster";
-import ReactQueryProvider from "@/contexts/ReactQueryProvider";
+import ReactQueryProvider from "@/lib/react-query-provider";
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
