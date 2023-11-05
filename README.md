@@ -1,6 +1,6 @@
 # Nexstart
 
-Batteries included starter template for [NextJS App Router](https://nextjs.org/docs).
+Batteries included starter template for [NextJS App Router](https://nextjs.org/docs). The below documentation includes tools that haven't been integrated yet.
 
 ## Table of Contents
 
